@@ -109,9 +109,10 @@ else
 ## 결과 스크린샷
 결과는 아래와 같다.
 ### index
-![](2025-04-05-%20Make%20login%20pages%20using%20VMware%20and%20Docker-20250405223122308.png)
+![](\assets\images\2025-04-05- Make login pages using VMware and Docker\login.png)
 ### 로그인성공
-![](2025-04-05-%20Make%20login%20pages%20using%20VMware%20and%20Docker-20250405223132716.png)
+![](\assets\images\2025-04-05- Make login pages using VMware and Docker\success.png)
 
 ### 로그인 실패
-![](2025-04-05-%20Make%20login%20pages%20using%20VMware%20and%20Docker-20250405223214190.png)
+![](\assets\images\2025-04-05- Make login pages using VMware and Docker\fail.png)
+
