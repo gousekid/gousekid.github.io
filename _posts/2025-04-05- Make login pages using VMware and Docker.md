@@ -59,11 +59,12 @@ sudo docker build -t webtest .
 
 
 2. Docker 컨테이터 구동
-도커 컨테이너 구동을 위해 다음과 같이 실행시켰고, 외부에서 파일을 수정할 수 있도록 특정 폴더와 링크를 시켜두었다. 또한 포트포워딩도 진행 하였다.
-```
-sudo docker run -v /home/test/Desktop/webserver/html/:/var/www/html -p 80:80  webtest
+도커 컨테이너 구동을 위해다음과 같이 실행시켰고, 외부에서 파일을 수정할 수 있도록 특정 폴더와 링크를 시켜두었다. 또한 포트포워딩도 진행 하였다.
 
 ```
+sudo docker run -v /home/test/Desktop/webserver/html/:/var/www/html -p 80:80  webtest
+```
+
 
 
 ## PHP를 통한 로그인 페이지 구축
@@ -74,9 +75,11 @@ index.html -> loginphp.php ------- login_success.html (성공)
 
 1. index.html
 index에서 중요한것은 아래와 같은 form 문이다. from 문을 통해 post 방식으로 loginphp.php로 로그인관련 정보를 전송하게 하였다.
+
 ```
 <form method="post" action=" loginphp.php ">
 ```
+
 2. loginphp.php
 loginphp.php에서는 if문을 활용하여 비교하였다. 이때 다른언어와는 다르게 === 를 써야 엄밀하다는 정보를 확인하여 === 를 활용하여 string을 비교하였다.
 페이지 이동은 hearder라는 함수를 통해 진행하였는데, php파일을 작성하면서 가장 문제가 많았던것은, c언어와 같이 ;로 항상 닫아줘야한다는 사실이였다.
