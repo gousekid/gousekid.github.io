@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gousekid Engineer's Trash Can"
+title                    : "Engineer's Trash Can"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gousekid"
@@ -104,10 +104,10 @@ analytics:
 
 
 locale                   : "en-US"
-title                    : "Gousekid Engineer's Trash Can"
+title                    : "Engineer's Trash Can"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Engineers coding for fun"
+name                     : "Gousekid"
 description              : "Aerospace Engineer, Guidance & Control, Interests automation through coding"
 url                      : "https://gousekid.github.io"
 
@@ -115,7 +115,7 @@ url                      : "https://gousekid.github.io"
 author:
   name             : "Gousekid"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "** Aerospace Engineer** coding for fun"
+  bio              : "Engineer's Trash Can"
   location         : "South Korea"
   email            : gousekid@gmail.com
   links:
