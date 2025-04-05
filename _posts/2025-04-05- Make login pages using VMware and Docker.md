@@ -69,8 +69,10 @@ sudo docker run -v /home/test/Desktop/webserver/html/:/var/www/html -p 80:80  we
 
 ## PHP를 통한 로그인 페이지 구축
 PHP를 통한 로그인 페이지는 다음과 같이 구성하려고 한다.
-index.html -> loginphp.php ------- login_success.html (성공)
-                        ㄴ-- login_fail.html(실패)
+<pre>
+index.html → loginphp.php → login_success.html (성공)
+                    ㄴ→ login_fail.html (실패)
+</pre>
 
 
 1. index.html
