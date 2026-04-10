@@ -38,7 +38,6 @@ No other users authenticate with this app. No third-party data is collected or p
 
 - **Name**: Young-Won Kim
 - **Email**: [gousekid@gmail.com](mailto:gousekid@gmail.com)
-- **Source code**: [github.com/gousekid/youtube-pd](https://github.com/gousekid/youtube-pd)
 
 ## Links
 
