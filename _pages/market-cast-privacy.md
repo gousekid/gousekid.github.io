@@ -1,6 +1,6 @@
 ---
-title: "YouTube PD — Privacy Policy"
-permalink: /youtube-pd/privacy
+title: "Morning Korea Market Cast — Privacy Policy"
+permalink: /market-cast/privacy
 layout: single
 toc: true
 toc_sticky: true
@@ -10,7 +10,7 @@ toc_sticky: true
 
 **Last updated**: 2026-04-11
 
-YouTube PD is a **personal automation tool** built and operated by Young-Won Kim for his own YouTube channel. This privacy policy describes how the tool handles data.
+Morning Korea Market Cast is a **personal automation tool** built and operated by Young-Won Kim for his own YouTube channel. This privacy policy describes how the tool handles data.
 
 ## Who this policy applies to
 
@@ -18,7 +18,7 @@ Only the developer (Young-Won Kim). **No other users authenticate with this appl
 
 ## What data the tool accesses
 
-YouTube PD accesses the following through the YouTube Data API:
+Morning Korea Market Cast accesses the following through the YouTube Data API:
 
 - **The developer's own YouTube channel** — to upload videos the developer has created
 
@@ -54,7 +54,7 @@ This scope grants permission to upload videos to the authorizing account's own Y
 
 ## Compliance with Google API Services User Data Policy
 
-YouTube PD's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+Morning Korea Market Cast's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 ## Children's privacy
 

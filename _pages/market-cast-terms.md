@@ -1,6 +1,6 @@
 ---
-title: "YouTube PD — Terms of Service"
-permalink: /youtube-pd/terms
+title: "Morning Korea Market Cast — Terms of Service"
+permalink: /market-cast/terms
 layout: single
 toc: true
 toc_sticky: true
@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Personal tool, not a public service
 
-YouTube PD is a **personal automation tool** built and operated by Young-Won Kim solely for uploading videos to the developer's own YouTube channel. It is not offered as a service to any other person or entity.
+Morning Korea Market Cast is a **personal automation tool** built and operated by Young-Won Kim solely for uploading videos to the developer's own YouTube channel. It is not offered as a service to any other person or entity.
 
 ## No user accounts
 
@@ -20,7 +20,7 @@ The tool does not onboard users. There is no signup, no login, no account system
 
 ## Use of YouTube API Services
 
-By using YouTube PD, the developer (the sole user) agrees to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and acknowledges Google's [Privacy Policy](https://policies.google.com/privacy).
+By using Morning Korea Market Cast, the developer (the sole user) agrees to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and acknowledges Google's [Privacy Policy](https://policies.google.com/privacy).
 
 ## No warranty
 

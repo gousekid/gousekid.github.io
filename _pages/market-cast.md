@@ -1,23 +1,23 @@
 ---
-title: "YouTube PD"
-permalink: /youtube-pd
+title: "Morning Korea Market Cast"
+permalink: /market-cast
 layout: single
 toc: true
 toc_sticky: true
 ---
 
-# YouTube PD
+# Morning Korea Market Cast
 
-A personal automation tool that converts a daily economics blog post and related news data into a YouTube video and publishes it to the author's own YouTube channel.
+A personal automation tool that converts a daily Korean economics blog post and related news data into a short English video and publishes it to the author's own YouTube channel.
 
 This is a **personal project** built and operated by one individual for their own YouTube channel. It is not a public service and does not onboard other users.
 
 ## What it does
 
-Every morning before market open, the pipeline:
+Every morning before the Korean stock market opens, the pipeline:
 
-1. Fetches the author's own blog post and related news articles from a private API
-2. Rewrites the content into an English YouTube script (~1,500 words, ~10 minutes)
+1. Fetches the author's own blog post and related Korean news articles from a private API
+2. Rewrites the content into an English script (~1,500 words, ~10 minutes)
 3. Generates narration audio with a text-to-speech model
 4. Assembles a video (images + captions + audio) with FFmpeg
 5. Uploads the finished video to the author's YouTube channel via the YouTube Data API
@@ -41,5 +41,5 @@ No other users authenticate with this app. No third-party data is collected or p
 
 ## Links
 
-- [Privacy Policy](/youtube-pd/privacy)
-- [Terms of Service](/youtube-pd/terms)
+- [Privacy Policy](/market-cast/privacy)
+- [Terms of Service](/market-cast/terms)
